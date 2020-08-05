@@ -10,7 +10,7 @@
 ### Clone Repo
 ```
 # clone the repo
-$ git clone 
+$ git clone git@github.com:haefele-software/react-clean-redux-workshop.git
 ​
 # go into the repo root
 $ cd react-clean-redux-workshop
@@ -30,8 +30,8 @@ $ npm start
 ​
 ## Projects
 
-* [shop-drop-clean-redux](https://github.com/haefele-software/react-recoil-workshop/tree/master/discordia-empty-start)
-* [shop-drop-vanilla-redux](https://github.com/haefele-software/react-recoil-workshop/tree/master/discordia-redux-final)
+* [shop-drop-clean-redux](https://github.com/haefele-software/react-clean-redux-workshop/tree/master/shop-drop-clean-redux)
+* [shop-drop-vanilla-redux](https://github.com/haefele-software/react-clean-redux-workshop/tree/master/shop-drop-vanilla-redux)
 ​
 ​
 ## How To Use This Workshop
