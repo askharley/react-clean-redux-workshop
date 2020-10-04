@@ -3,7 +3,7 @@ import { ListGroup } from "react-bootstrap";
 import { useDispatch } from "react-redux";
 import { actionCreators } from "../store/actions";
 
-export default function InBasketItem({ item, index }) {
+function InBasketItem({ item, index }) {
   const dispatch = useDispatch();
 
   const removeItemFromList = index => {
@@ -20,3 +20,5 @@ export default function InBasketItem({ item, index }) {
     </ListGroup.Item>
   );
 }
+
+export default InBasketItem;

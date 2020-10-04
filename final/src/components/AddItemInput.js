@@ -3,7 +3,7 @@ import { Button } from "react-bootstrap";
 import { useDispatch } from "react-redux";
 import { actionCreators } from "../store/actions";
 
-export default function Input() {
+function AddItemInput() {
   const dispatch = useDispatch();
   const [input, setInput] = useState("");
 
@@ -37,3 +37,5 @@ export default function Input() {
     </div>
   );
 }
+
+export default AddItemInput;

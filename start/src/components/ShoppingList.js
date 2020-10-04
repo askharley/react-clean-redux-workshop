@@ -3,7 +3,7 @@ import { ListGroup } from "react-bootstrap";
 import { useSelector } from "react-redux";
 import { InListItem, InBasketItem } from ".";
 
-export default function ShoppingList() {
+function ShoppingList() {
   const items = useSelector(state => state.items);
 
   return (
@@ -18,3 +18,5 @@ export default function ShoppingList() {
     </ListGroup>
   );
 }
+
+export default ShoppingList;

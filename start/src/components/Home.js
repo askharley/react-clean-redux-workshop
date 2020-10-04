@@ -1,11 +1,11 @@
 import React from "react";
-import { Header, AddItem, ShoppingList } from ".";
+import { AddItemInput, ShoppingList } from ".";
 
 export default function Home() {
   return (
     <div>
-      <Header />
-      <AddItem />
+      <h1 className="mt-3">My Shop Drop</h1>
+      <AddItemInput />
       <ShoppingList />
     </div>
   );
