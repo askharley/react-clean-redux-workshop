@@ -1,0 +1,21 @@
+{
+  "name": "react-clean-redux-workshop",
+  "version": "1.0.0",
+  "scripts": {
+    "build:start": "npm --prefix start run build",
+    "build:final": "npm --prefix final run build"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.4.0",
+    "bootstrap": "^4.5.2",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.3.0",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-scripts": "^3.4.3",
+    "react-select": "^3.1.0",
+    "recoil": "0.0.13",
+    "redux": "^4.0.5",
+    "redux-actions": "^2.6.5"
+  }
+}
