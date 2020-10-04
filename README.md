@@ -1,22 +1,30 @@
 # React Clean Redux Workshop
 
 ## Table of Contents
-* [Get Started](#get-started)
-* [Projects](#projects)
-* [How To Use This Workshop](#how-to-use-this-workshop)
+* [🎯 Goals](#goals)
+* [⚡ Get Started](#get-started)
+* [📚 Projects](#projects)
+* [🤖 Deployments](#deployments)
+* [🚀 How To Use This Workshop](#how-to-use-this-workshop)
 ​
-## Get Started
+## 🎯 Goals
+
+- See how the vanilla Redux approach can be somewhat boilerplately and bloated
+- Learn how we can make writing Redux and understanding the Flux architecture simpler
+- Make use of [@reduxjs/toolkit](https://github.com/reduxjs/redux-toolkit) and [redux-actions](https://github.com/redux-utilities/redux-actions) to write simpler Redux code
+
+## ⚡ Get Started
 
 ### Clone Repo
 ```
 # clone the repo
-$ git clone git@github.com:haefele-software/react-clean-redux-workshop.git
+$ git clone git@github.com:askharley/react-clean-redux-workshop.git
 ​
-# go into the repo root
+# navigate into the repo root
 $ cd react-clean-redux-workshop
 ​
-# go into a particular project
-$ cd shop-drop-clean-redux
+# navigate into the start project
+$ cd start
 ```
 ​
 ### Install
@@ -28,21 +36,16 @@ $ npm i
 $ npm start
 ```
 ​
-## Projects
+## 📚 Projects
 
-* [shop-drop-clean-redux](https://github.com/haefele-software/react-clean-redux-workshop/tree/master/shop-drop-clean-redux)
-* [shop-drop-vanilla-redux](https://github.com/haefele-software/react-clean-redux-workshop/tree/master/shop-drop-vanilla-redux)
+* [shop-drop-clean-redux](https://github.com/haefele-software/react-clean-redux-workshop/tree/master/shop-drop-clean-redux) - a working application that has the vanilla Redux approach implemented
+* [shop-drop-vanilla-redux](https://github.com/haefele-software/react-clean-redux-workshop/tree/master/shop-drop-vanilla-redux) - an example of a final application that's made writing Redux simpler through external libraries
+
+## 🤖 Deployments
+
+* [start](https://react-clean-redux-workshop-start.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/71a180da-fc6f-414d-8cb8-201cb7d9e161/deploy-status)](https://app.netlify.com/sites/react-clean-redux-workshop-start/deploys)
+* [final](https://react-recoil-workshop-final-redux.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/71a180da-fc6f-414d-8cb8-201cb7d9e161/deploy-status)](https://app.netlify.com/sites/react-clean-redux-workshop-final/deploys)
 ​
 ​
-## How To Use This Workshop
+## 🚀 How To Use This Workshop
 - The slides can be found in PDF form. The slides outline what state management is, why we need it and how Redux ties into it. We go through the vanilla approach to Redux and how we can make use of other libraries to improve out development experience and write better, cleaner and more maintainabl code.
-- There are 2 projects within this repository: an application that is fully functional that has a Redux state management implementation and then another identical project but with a cleaner Redux implementation.
-
-## Creators
-
-***Harley Ferguson***
-* <https://github.com/askharley>
-* <https://twitter.com/askharleyio>
-
-**Haefele Software Team**
-* <https://github.com/orgs/haefele-software/people>
