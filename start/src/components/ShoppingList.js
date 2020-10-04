@@ -1,10 +1,10 @@
-import React from "react";
-import { ListGroup } from "react-bootstrap";
-import { useSelector } from "react-redux";
-import { InListItem, InBasketItem } from ".";
+import React from 'react';
+import { useSelector } from 'react-redux';
+import { ListGroup } from 'react-bootstrap';
+import { InListItem, InBasketItem } from '.';
 
 function ShoppingList() {
-  const items = useSelector(state => state.items);
+  const items = useSelector((state) => state.items);
 
   return (
     <ListGroup className="m-4" variant="flush">

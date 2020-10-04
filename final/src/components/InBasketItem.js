@@ -1,12 +1,12 @@
-import React from "react";
-import { ListGroup } from "react-bootstrap";
-import { useDispatch } from "react-redux";
-import { actionCreators } from "../store/actions";
+import React from 'react';
+import { useDispatch } from 'react-redux';
+import { ListGroup } from 'react-bootstrap';
+import { actionCreators } from '../store/actions';
 
 function InBasketItem({ item, index }) {
   const dispatch = useDispatch();
 
-  const removeItemFromList = index => {
+  const removeItemFromList = (index) => {
     dispatch(actionCreators.removeItem(index));
   };
 

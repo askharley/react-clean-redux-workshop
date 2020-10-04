@@ -1,5 +1,5 @@
-import React from "react";
-import { AddItemInput, ShoppingList } from ".";
+import React from 'react';
+import { AddItemInput, ShoppingList } from '.';
 
 export default function Home() {
   return (
