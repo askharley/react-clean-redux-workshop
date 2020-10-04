@@ -44,7 +44,7 @@ $ npm start
 ## 🤖 Deployments
 
 * [start](https://react-clean-redux-workshop-start.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/71a180da-fc6f-414d-8cb8-201cb7d9e161/deploy-status)](https://app.netlify.com/sites/react-clean-redux-workshop-start/deploys)
-* [final](https://react-clean-redux-workshop-final-redux.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/71a180da-fc6f-414d-8cb8-201cb7d9e161/deploy-status)](https://app.netlify.com/sites/react-clean-redux-workshop-final/deploys)
+* [final](https://react-clean-redux-workshop-final.netlify.app/) - [![Netlify Status](https://api.netlify.com/api/v1/badges/71a180da-fc6f-414d-8cb8-201cb7d9e161/deploy-status)](https://app.netlify.com/sites/react-clean-redux-workshop-final/deploys)
 ​
 ​
 ## 🚀 How To Use This Workshop
