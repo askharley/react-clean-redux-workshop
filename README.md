@@ -1,5 +1,7 @@
 # React Clean Redux Workshop
 
+> A workshop to explore how we can go about implementing an approach to Redux to requires less boilerplate code and is easier to reason with.
+
 ## Table of Contents
 * [🎯 Goals](#goals)
 * [⚡ Get Started](#get-started)
