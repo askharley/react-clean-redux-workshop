@@ -1,7 +1,6 @@
 {
   "name": "react-clean-redux-workshop-start",
   "version": "1.0.0",
-  "main": "src/index.js",
   "dependencies": {
     "bootstrap": "4.4.1",
     "react": "16.13.1",
@@ -10,8 +9,10 @@
     "react-redux": "7.2.0",
     "react-router": "5.1.2",
     "react-router-dom": "5.1.2",
-    "react-scripts": "3.0.1",
     "redux": "4.0.5"
+  },
+  "devDependencies": {
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
