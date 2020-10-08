@@ -50,4 +50,4 @@ $ npm start
 ​
 ​
 ## 🚀 How To Use This Workshop
-- The slides can be found in PDF form. The slides outline what state management is, why we need it and how Redux ties into it. We go through the vanilla approach to Redux and how we can make use of other libraries to improve out development experience and write better, cleaner and more maintainabl code.
+- The slides can be found in PDF form. The slides outline what state management is, why we need it and how Redux ties into it. We go through the vanilla approach to Redux and how we can make use of other libraries to improve out development experience and write better, cleaner and more maintainable code.
